@@ -1,0 +1,3 @@
+[submodule "youtube-local-favorites"]
+	path = youtube-local-favorites
+	url = git://github.com/integers/youtube-local-favorites.git
