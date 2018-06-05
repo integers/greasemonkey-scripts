@@ -1,6 +1,6 @@
-# Greasemonkey Scripts
+# Userscripts
 
-These are some miscellaneous Greasemonkey scripts I've made.
+These are some miscellaneous userscripts I've made.
 
-* [YouTube Local Favorites](https://github.com/integers/youtube-local-favorites)
+* [YouTube Local Favorites](https://gitlab.com/integers/youtube-local-favorites)
 
